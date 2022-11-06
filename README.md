@@ -1,9 +1,3 @@
 # Ссылки
 
-- рус 6 : https://uchebnik.mos.ru/composer3/lesson/715673/view
-- рус8: https://uchebnik.mos.ru/composer3/lesson/2253884/view
-РУС 9:https://uchebnik.mos.ru/composer3/lesson/666260/view
-лит 6:https://uchebnik.mos.ru/composer3/lesson/673473/view
-лит 8:https://uchebnik.mos.ru/composer3/lesson/1804417/view
-лит 10:https://uchebnik.mos.ru/composer3/lesson/1808033/view
-лит 9: https://uchebnik.mos.ru/composer3/lesson/36352/view
+http://skiv.instrao.ru/bank-zadaniy/chitatelskaya-gramotnost/chg-6-2021/%D0%A7%D0%93_6_%D0%92%D0%9D%D0%BE%D0%B2%D0%BE%D0%B9%D0%A8%D0%BA%D0%BE%D0%BB%D0%B5_%D1%82%D0%B5%D0%BA%D1%81%D1%82.pdf
